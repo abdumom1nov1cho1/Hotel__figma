@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+header{
+
+        .header__card{
+            width: 100%;
+            height: max-content;
+            background-image:linear-gradient(rgb(71, 71, 71), rgb(195, 195, 195));
+                .header__card__carta{
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-evenly;
+
+                        .header__card__carta__1{
+
+                                .header__card__carta__1__img{
+                                    margin-top: 40px;
+                                }
+                                .header__card__carta__1__p{
+                                    font-size: 18px;
+                                    padding-top: 20px;
+                                }
+                                .header__card__carta__1__btn{
+                                    width: 200px;
+                                    height: 50px;
+                                    color: black;
+                                    border-radius: 8px;
+                                }
+                        }
+                        .header__card__carta__2{
+                            margin-top: 50px;
+                        }
+                }
+        }
+}
+section{
+
+        .section__card{
+            width: 100%;
+            height: max-content;
+            padding-top: 90px;
+            background-image:linear-gradient( rgb(195, 195, 195), rgb(255, 255, 255));
+                .section__card__carta{
+                    display: flex;
+                    flex-wrap: wrap;
+                    justify-content: space-evenly;
+                        .section__card__carta__left{
+
+                                .section__card__carta__left__img{
+                                    border: 1px solid ;
+                                    box-shadow: 0 0 30px 5px rgb(71, 71, 71);
+                                }
+                        }
+                        .section__card__carta__right{
+                            padding-top: 60px;
+                                .section__card__carta__right__h1{
+                                   font-size: 44px;
+                                   color: black;
+                                }
+                                .section__card__carta__right__p{
+
+                                }
+                                .section__card__carta__right__btn{
+
+                                }
+                        }
+                }
+        }
+}
+section{
+
+    .section__card1{
+        width: 100%;
+        height: max-content;
+        padding-top: 90px;
+      
+        background-image:linear-gradient( rgb(255, 255, 255), rgb(238, 238, 238), white);
+            .section__card1__carta{
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: space-evenly;
+                    .section__card1__carta__left{
+
+                            .section__card1__carta__left__img{
+                                margin-top: 40px;
+                                border: 1px solid rgb(71, 71, 71);
+                                box-shadow: 0 0 30px 5px rgb(71, 71, 71);
+                            }
+                    }
+                    .section__card1__carta__right{
+                        padding-top: 60px;
+                            .section__card1__carta__right__h1{
+                               font-size: 44px;
+                               color: black;
+                            }
+                            .section__card1__carta__right__p{
+
+                            }
+                            .section__card1__carta__right__btn{
+
+                            }
+                    }
+            }
+    }
+}
+section{
+
+        .section__card2{
+            margin-top: 40px;
+
+                .card-img-overlay{
+                    text-align: center;
+                    padding-top: 20px;
+                        .card-title{
+                            font-size: 45px;
+                            color: rgb(255, 255, 255);
+                        }
+                        .card-text{
+                            font-size: 20px;
+                            color: rgb(47, 46, 36);
+                        }
+                }
+        }
+}
+aside{
+
+        .section__card3{
+            background-image: linear-gradient(rgb(195, 195, 195), rgb(255, 255, 255), white);
+            margin-top: 40px;
+                .section__card3__h1{
+                    color: red;
+                }
+        }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width:952px){
+   
